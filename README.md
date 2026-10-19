@@ -57,9 +57,6 @@
 
 ---
 
-## 📚 Voor Wie is Dit Bedoeld?
-
-Ontwikkeld voor leerlingen in de **3e graad secundair onderwijs (TSO / Doorstroomfinaliteit / Technologische Wetenschappen & Engineering)** ter voorbereiding op toetsen en examens mechanica en fysica.
 
 ---
 
