@@ -7,13 +7,13 @@
 ## 📥 Hoe downloaden en gebruiken? (In 1 minuut)
 
 1. **Download het bestand:**  
-   👉 Klik met de rechtermuisknop op **[Download index.html](https://raw.githubusercontent.com/roelwuytack-bot/fluidomechanica-leerapp/main/index.html)** en kies *'Koppeling opslaan als...'* (of *'Opslaan als'*).
+   👉 Klik met de rechtermuisknop op **[Download fluidomechanica.html](https://raw.githubusercontent.com/roelwuytack-bot/fluidomechanica-leerapp/main/fluidomechanica.html)** en kies *'Koppeling opslaan als...'* (of *'Opslaan als'*).
 2. **Open het bestand:**  
-   Dubbelklik op `index.html` op je computer, laptop, tablet of smartphone.
+   Dubbelklik op `fluidomechanica.html` op je computer, laptop, tablet of smartphone.
 3. **Klaar!**  
-   Het opent meteen in je browser (Chrome, Edge, Safari of Firefox) en je kan direct oefenen!
+   Het opent meteen in je browser (Chrome, Edge, Safari of Firefox) en je kan direct beginnen oefenen!
 
-> 💡 **Tip:** Al je behaalde XP, afgevinkte leerdoelen, oefeningen en flashcard-voortgang worden automatisch lokaal in je browser bewaard (`localStorage`).
+> 💡 **Tip:** Al je behaalde XP, afgevinkte leerdoelen, oefeningen en flashcard-voortgang worden automatisch lokaal in je browser bewaard (`localStorage`). Je kan dit bestand ook simpelweg via WhatsApp, Smartschool of e-mail doorsturen naar klasgenoten.
 
 ---
 
@@ -27,7 +27,7 @@
   - **4.0:** Toepassingen: Vliegtuigvleugel & liftkracht, Pitotbuis / Prandtl-buis en het Venturi-effect.
 
 - ✏️ **Alle 15 Cursusopdrachten met Interactieve Coach:**
-  - Zelf oplossen met automatische controle, toleranties en foutdiagnose op klassieke eenheden- en rekenfouten.
+  - Zelf oplossen met automatische controle, toleranties en gerichte foutdiagnose op eenheden- en rekenfouten.
   - Inclusief hints en **volledige stap-voor-stap uitwerkingen** in Plantyn-stijl (Gegeven → Gevraagd → Eenhedenovergang → Uitwerking → Besluit).
   - Interactief digitaal tekenvlak voor de stroomlijntekeningen van Opdracht 9 (blikjes) en Opdracht 14 (Prandtl-buis).
 
@@ -49,7 +49,7 @@
   - ⏱️ **Toetsmodus:** Volledige klas-toetssimulatie met timer, score en gerichte herhaaltips.
 
 - 🧘 **Magnetische Debloat Mode (Rustige Leermodus):**
-  - Schakel via de schuifknop rechtsboven over naar een prikkelarme modus die exact **1 theorie-onderdeel of 1 opgave tegelijk** toont.
+  - Schakel via de schuifknop rechtsboven over naar een rustige, prikkelarme weergave die exact **1 theorie-onderdeel of 1 opgave tegelijk** toont.
 
 - 🖨️ **Printbare Hulpmiddelen:**
   - 1-pagina compacte **spiekbrief & formularium**.
@@ -57,6 +57,9 @@
 
 ---
 
+## 📚 Voor Wie is Dit Bedoeld?
+
+Ontwikkeld voor leerlingen in de **3e graad secundair onderwijs (TSO / Doorstroomfinaliteit / Technologische Wetenschappen & Engineering)** ter voorbereiding op toetsen en examens mechanica en fysica.
 
 ---
 
