@@ -1,5 +1,9 @@
 # 🌊 THME3 Fluïdomechanica — Interactieve Leer- & Oefen-Webapp
 
+[![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile%20%7C%20Tablet-blue?style=for-the-badge)]()
+[![Privacy](https://img.shields.io/badge/Privacy-100%25%20Lokaal%20%28Geen%20Cloud%29-brightgreen?style=for-the-badge)]()
+[![License: MIT](https://img.shields.io/badge/Licentie-MIT-purple?style=for-the-badge)](LICENSE)
+
 > Een complete, interactieve leeromgeving voor stromingsleer (debiet, stroomsnelheid, wet van Castelli, wet van Bernoulli en toepassingen) in **1 enkel zelfstandig bestand**. Geen installatie, server of internetverbinding nodig.
 
 ---
@@ -7,9 +11,9 @@
 ## 📥 Hoe downloaden en gebruiken? (In 1 minuut)
 
 1. **Download het bestand:**  
-   👉 Klik met de rechtermuisknop op **[Download fluidomechanica.html](https://raw.githubusercontent.com/roelwuytack-bot/fluidomechanica-leerapp/main/fluidomechanica.html)** en kies *'Koppeling opslaan als...'* (of *'Opslaan als'*).
+   👉 Klik met de rechtermuisknop op **[Download fluidomechanica](https://raw.githubusercontent.com/roelwuytack-bot/fluidomechanica/main/fluidomech.html)** en kies *'Koppeling opslaan als...'* (of *'Opslaan als'*).
 2. **Open het bestand:**  
-   Dubbelklik op `fluidomechanica.html` op je computer, laptop, tablet of smartphone.
+   Dubbelklik op het gedownloade `.html` bestand op je computer, laptop, tablet of smartphone.
 3. **Klaar!**  
    Het opent meteen in je browser (Chrome, Edge, Safari of Firefox) en je kan direct beginnen oefenen!
 
